@@ -1,0 +1,8 @@
+{
+  "name": "vmnas-extension",
+  "description": "Simple extension for VM launch and NAS mounting",
+  "uuid": "vmnas-extension",
+  "shell-version": [
+    "40"
+  ]
+}
